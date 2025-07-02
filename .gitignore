@@ -1,0 +1,8 @@
+# python 
+venv
+.ipynb_checkpoints
+__pycache__
+
+assets
+Notes.md
+Notes.txt
