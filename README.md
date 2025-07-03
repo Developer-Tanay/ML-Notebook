@@ -111,20 +111,3 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 Happy modeling! 🚀
 
----
-
-### 🧩 What to do next
-
-1. Save this content into a new file named `README.md` at your repo’s root.
-2. Optionally, generate `requirements.txt` via:
-   ```bash
-   pip freeze > requirements.txt
-   ```
-
-3. Commit and push:
-
-   ```bash
-   git add README.md requirements.txt
-   git commit -m "Add README with setup and usage instructions"
-   git push
-   ```
